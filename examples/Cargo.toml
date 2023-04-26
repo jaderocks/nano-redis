@@ -1,0 +1,3 @@
+[[example]]
+name = "hello-redis"
+path="examples/hello-redis.rs"
